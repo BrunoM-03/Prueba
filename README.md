@@ -1,5 +1,5 @@
 # Prueba
-Repositorio de prueba
+## Repositorio de prueba
 **Negrita**
 _cursiva_
 ~~tachado~~
